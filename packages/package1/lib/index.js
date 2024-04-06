@@ -2,8 +2,8 @@
 const _ = require("lodash");
 
 function calculateSum(arr) {
+  console.log("Hello Kunal");
   return _.sum(arr);
 }
-console.log("Hello from package1");
 
 module.exports = { calculateSum };
