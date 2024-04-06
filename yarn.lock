@@ -3053,11 +3053,11 @@ p-waterfall@2.1.1:
     p-reduce "^2.0.0"
 
 "package1@file:/Users/kunalkendrekar/lerna-demo/packages/package1":
-  version "0.0.1"
+  version "0.0.2"
   resolved "file:packages/package1"
 
 "package2@file:/Users/kunalkendrekar/lerna-demo/packages/package2":
-  version "0.0.1"
+  version "0.0.2"
   resolved "file:packages/package2"
 
 pacote@^17.0.5:
