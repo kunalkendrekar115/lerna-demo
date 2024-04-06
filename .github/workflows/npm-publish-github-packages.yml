@@ -19,9 +19,9 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 21
-      - run: 
+      - run: |
          git config user.name "${{ github.actor }}"
-         git config user.email "${{ github.actor}}@users.noreply.github.com"
+         git config user.email "${{ github.actor}}@gmail.com"
          npx lerna version --conventional-commits --yes 
       
      
