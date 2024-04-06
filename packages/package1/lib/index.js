@@ -2,7 +2,7 @@
 const _ = require("lodash");
 
 function calculateSum(arr) {
-  console.log("Hello Kunal");
+  console.log("Hello Kunal Kendrekar");
   return _.sum(arr);
 }
 
