@@ -237,55 +237,10 @@
     tslib "^2.3.0"
     yargs-parser "21.1.1"
 
-"@nx/nx-darwin-arm64@18.2.3":
-  version "18.2.3"
-  resolved "https://registry.npmjs.org/@nx/nx-darwin-arm64/-/nx-darwin-arm64-18.2.3.tgz"
-  integrity sha512-TEks/vXHE87rNvVqhcIzQOM/+aZvNCf/70PhGG4RBEb+qV0C1kw7nygzdoLI4inFC76Qxhyya/K3J2OnU5ATiw==
-
 "@nx/nx-darwin-x64@18.2.3":
   version "18.2.3"
   resolved "https://registry.npmjs.org/@nx/nx-darwin-x64/-/nx-darwin-x64-18.2.3.tgz"
   integrity sha512-UsBbNbNXj+L2OzPyQYotyzmZF4h+ryaZ8quYDfdnlYwvFeqkdb2QJ3vJRd6in0kMWGrdk/ria/wZMCxR7U1ggg==
-
-"@nx/nx-freebsd-x64@18.2.3":
-  version "18.2.3"
-  resolved "https://registry.npmjs.org/@nx/nx-freebsd-x64/-/nx-freebsd-x64-18.2.3.tgz"
-  integrity sha512-f9BXGOeRPhrsNm99TCnOqZZeZUqN1BUOEzWa12eo3u+vQG6Qba3qKn7T92SeEzxOx/mUP/Csv3pFYoY6TE26jA==
-
-"@nx/nx-linux-arm-gnueabihf@18.2.3":
-  version "18.2.3"
-  resolved "https://registry.npmjs.org/@nx/nx-linux-arm-gnueabihf/-/nx-linux-arm-gnueabihf-18.2.3.tgz"
-  integrity sha512-ekqr5jZhD6PxGM5IbI/RtlERDJ+8HR04OIdfo6HkbwxwCHxZlzZq+ApEZYum4AbjP6cuc3Zd/us1uuDqfQbeHw==
-
-"@nx/nx-linux-arm64-gnu@18.2.3":
-  version "18.2.3"
-  resolved "https://registry.npmjs.org/@nx/nx-linux-arm64-gnu/-/nx-linux-arm64-gnu-18.2.3.tgz"
-  integrity sha512-iAW2J8NBFU4zDn5nqRgUq4t7gYC8ALyALzznr97ZvMTQorWfmHYgPUAj/opNqUcr10fjxcmXT0Ux2SX3DgUDmw==
-
-"@nx/nx-linux-arm64-musl@18.2.3":
-  version "18.2.3"
-  resolved "https://registry.npmjs.org/@nx/nx-linux-arm64-musl/-/nx-linux-arm64-musl-18.2.3.tgz"
-  integrity sha512-AJjGVHGGew0QVKUL30mjFjafowrSDYSQ1GgkJCLuWef5jl4rFvm9ruZswVja1KfZTFaImTCU01tZjPBr3zhmAA==
-
-"@nx/nx-linux-x64-gnu@18.2.3":
-  version "18.2.3"
-  resolved "https://registry.npmjs.org/@nx/nx-linux-x64-gnu/-/nx-linux-x64-gnu-18.2.3.tgz"
-  integrity sha512-nk5Xg8vmbBRoL0fOgZNBl1paC7hmjACLaSBmU7U2X+Y+QPGQzSw2b+Zn1MKVUWDmc4E6VnQfZ8n0L27+r9NgRw==
-
-"@nx/nx-linux-x64-musl@18.2.3":
-  version "18.2.3"
-  resolved "https://registry.npmjs.org/@nx/nx-linux-x64-musl/-/nx-linux-x64-musl-18.2.3.tgz"
-  integrity sha512-bOlhul/eov58k9fX8lltopUDOIBEohZq2qc4ag91W2r4jdp6suAiqfXRxQwNZ2iHd8nAXuCDIHCbUuojs6OZnA==
-
-"@nx/nx-win32-arm64-msvc@18.2.3":
-  version "18.2.3"
-  resolved "https://registry.npmjs.org/@nx/nx-win32-arm64-msvc/-/nx-win32-arm64-msvc-18.2.3.tgz"
-  integrity sha512-olXer0LnCvJrdV5ynd19fZHvvarRK/p1JnkoOUZDPVV+A3jGQQ8+paz+/5iLQBKA+5VcgWyqAaGFJnpyEFmnoQ==
-
-"@nx/nx-win32-x64-msvc@18.2.3":
-  version "18.2.3"
-  resolved "https://registry.npmjs.org/@nx/nx-win32-x64-msvc/-/nx-win32-x64-msvc-18.2.3.tgz"
-  integrity sha512-BgzPjF/wqi7zIFcspcKzN37BX1wgGo0OTLncK2PN5nyzSQ+XeNbR5laDswxzOGdB4CRLPqak2+YMhYnoiXeRCg==
 
 "@octokit/auth-token@^3.0.0":
   version "3.0.4"
@@ -3053,7 +3008,7 @@ p-waterfall@2.1.1:
     p-reduce "^2.0.0"
 
 "package1@file:/Users/kunalkendrekar/lerna-demo/packages/package1":
-  version "0.0.2"
+  version "0.0.3"
   resolved "file:packages/package1"
 
 "package2@file:/Users/kunalkendrekar/lerna-demo/packages/package2":
